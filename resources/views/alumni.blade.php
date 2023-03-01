@@ -51,10 +51,10 @@
                       }
 
                       function caribarang(){
-        var nim = document.getElementById("nim").value;
+        var tahunmasuk = document.getElementById("tahunmasuk").value;
         $.ajax({
                       type:"GET",
-                      url:"/cari/"+nim
+                      url:"/cari/"+tahunmasuk
                       }).done(function(data){
                       $('#tabel').html(data);
                     //   alert("Data ditemukan!");
@@ -180,12 +180,13 @@
                   <h6 class="m-0 font-weight-bold text-primary" id="sejarah">Data Alumni</h6>
                 </div>
                 <div class="card-body">
-                  <ul><ul><ul><ul>
+                  <ul><ul><ul>
                   <form class="d-flex" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Tahun Angkatan" aria-label="Search" id="nim">
+                    <input class="form-control ms-auto" type="search" placeholder="Tahun Angkatan" aria-label="Search" id="tahunmasuk" style="width:230px;">
+                    <ul></ul>
                     <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="caribarang();">Cari</button>
                   </form>
-                      </ul></ul></ul></ul>
+                      </ul></ul></ul>
                   <div id="tabel">
                   </div>
                 </div>
