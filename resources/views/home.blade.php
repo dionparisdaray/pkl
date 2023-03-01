@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Data Alumni FTII Uhamka | Home</title>
+  <title>Data Alumni FT Uhamka | Home</title>
 
   <!-- Custom fonts for this template-->
   <link href="{{ asset('vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
@@ -45,6 +45,9 @@
 </head>
 
 <body id="page-top">
+  <div>
+    
+  </div>
 
   <!-- Page Wrapper -->
   <div id="wrapper">
