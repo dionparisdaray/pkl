@@ -49,11 +49,12 @@
                       $('#tabel').html(data);
                       });
                       }
-    function caribarang(){
-        var tahunmasuk = document.getElementById("tahunmasuk").value;
+
+                      function caribarang(){
+        var nim = document.getElementById("nim").value;
         $.ajax({
                       type:"GET",
-                      url:"/cari/"+tahunmasuk
+                      url:"/cari/"+nim
                       }).done(function(data){
                       $('#tabel').html(data);
                     //   alert("Data ditemukan!");
@@ -180,15 +181,10 @@
                 </div>
                 <div class="card-body">
                   <ul><ul><ul><ul>
-                    <div class="col-2">
-                        <label class="visually-hidden" for="autoSizingSelect">Preference</label>
-                        <select class="form-select" id="autoSizingSelect">
-                          <option selected>tahun angkatan</option>
-                          <option value="1">2018</option>
-                          <option value="2">2019</option>
-                          <option value="3">2020</option>
-                        </select>
-                      </div>
+                  <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Tahun Angkatan" aria-label="Search" id="nim">
+                    <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="caribarang();">Cari</button>
+                  </form>
                       </ul></ul></ul></ul>
                   <div id="tabel">
                   </div>
