@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Data Alumni FT Uhamka | Home</title>
+  <title>Data Alumni FT TI Uhamka | Home</title>
 
   <!-- Custom fonts for this template-->
   <link href="{{ asset('vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
@@ -129,7 +129,7 @@
       <div id="content">
 
         <!-- Topbar -->
-        <nav class="navbar navbar-expand navbar-light bg-gradient-primary topbar mb-4 static-top shadow">
+        <nav class="navbar navbar-expand navbar-light bg-gradient-info topbar mb-4 static-top shadow">
         <h2 class="text-white">Website Alumni TI Uhamka</h2>
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
