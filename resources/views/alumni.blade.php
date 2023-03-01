@@ -123,7 +123,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Fitur Info Kampus:</h6>
             <a class="collapse-item" href="/daftarfilm">Organisasi</a>
-            <a class="collapse-item" href="/daftarfilm">Dosen</a>
+            <a class="collapse-item" href="/dosen">Dosen</a>
           </div>
         </div>
       </li>
