@@ -1,0 +1,45 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+#card {
+    width: 200px;
+}
+
+.team-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.team-member {
+    text-align: center;
+    width: 200px;
+    margin: 20px;
+}
+
+.team-member h3 {
+    padding-top: 10px;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.judul {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+    .team-member {
+        width: 100%;
+    }
+
+    .judul {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+}
