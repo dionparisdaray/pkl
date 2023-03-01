@@ -129,13 +129,8 @@
       <div id="content">
 
         <!-- Topbar -->
-<<<<<<< HEAD
         <nav class="navbar navbar-expand navbar-light bg-gradient-primary topbar mb-4 static-top shadow">
         <h2 class="text-white">Website Alumni bersama  Uhamka</h2>
-=======
-        <nav class="navbar navbar-expand navbar-light bg-gradient-info topbar mb-4 static-top shadow">
-        <h2 class="text-white">Website Alumni TI Uhamka</h2>
->>>>>>> 5fbe366eb7de8b01ce6dca129086011151640f32
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>
