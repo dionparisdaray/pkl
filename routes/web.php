@@ -24,3 +24,9 @@ Route::get('/tampil',[FilmController::class,'tampil']);
 Route::get('/dosen',[FilmController::class,'dosen']);
 
 Route::get('/cari/{id}',[FilmController::class,'cari']);
+
+Route::get('/cariprodi/{id}',[FilmController::class,'cariprodi']);
+
+Route::get('/carinim/{id}',[FilmController::class,'carinim']);
+
+Route::get('/carinama/{request}',[FilmController::class,'carinama']);

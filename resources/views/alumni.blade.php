@@ -50,11 +50,44 @@
                       });
                       }
 
-                      function caribarang(){
+                      function cariangkatan(){
         var tahunmasuk = document.getElementById("tahunmasuk").value;
         $.ajax({
                       type:"GET",
                       url:"/cari/"+tahunmasuk
+                      }).done(function(data){
+                      $('#tabel').html(data);
+                    //   alert("Data ditemukan!");
+                      });
+                   }
+
+                   function cariprodi(){
+        var prodi = document.getElementById("prodi").value;
+        $.ajax({
+                      type:"GET",
+                      url:"/cariprodi/"+prodi
+                      }).done(function(data){
+                      $('#tabel').html(data);
+                    //   alert("Data ditemukan!");
+                      });
+                   }
+                   
+                      function carinim(){
+        var nim = document.getElementById("nim").value;
+        $.ajax({
+                      type:"GET",
+                      url:"/carinim/"+nim
+                      }).done(function(data){
+                      $('#tabel').html(data);
+                    //   alert("Data ditemukan!");
+                      });
+                   }
+
+                      function carinama(){
+        var nama = document.getElementById("nama").value;
+        $.ajax({
+                      type:"GET",
+                      url:"/carinama/"+nama
                       }).done(function(data){
                       $('#tabel').html(data);
                     //   alert("Data ditemukan!");
@@ -185,23 +218,23 @@
                   <form class="d-flex " role="search">
                     <input class="form-control" type="search" placeholder="NIM" aria-label="Search" id="nim" style="width:230px;">
                     <ul></ul>
-                    <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="caribarang();">Cari</button>
+                    <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="carinim();">Cari</button>
                   </form>
                   <br>
                   <form class="d-flex" role="search">
                     <input class="form-control me-auto" type="search" placeholder="Nama" aria-label="Search" id="nama" style="width:230px;">
                     <ul></ul>
-                    <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="caribarang();">Cari</button>
+                    <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="carinama();">Cari</button>
                   </form>
                  </div>
                  <div class="ms-auto">
-                 <select class="form-select" multiple aria-label="Default select example" id="tahunmasuk">
-                    <option selected>Open this select menu</option>
+                 <select class="dropdown form-select" aria-label="Default select example" id="tahunmasuk" onclick="cariangkatan();">
+                    <option selected>Tahun Angkatan</option>
                     <option value="2023">2022</option>
                     <option value="2022">2022</option>
                     <option value="2021">2021</option>
-                    <option value="2020" onclick="caribarang();">2020</option>
-                    <option value="2019" onclick="caribarang();">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2019">2019</option>
                     <option value="2018">2018</option>
                     <option value="2017">2017</option>
                     <option value="2016">2016</option>
@@ -222,16 +255,12 @@
                     <option value="2001">2001</option>
                   </select>
                   <br>
-                  <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Program Study
-                    </button>
-                    <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">Teknik Informatika</a></li>
-                      <li><a class="dropdown-item" href="#">Teknik Mesin</a></li>
-                      <li><a class="dropdown-item" href="#">Teknik Elektro</a></li>
-                    </ul>
-                  </div>
+                  <select class="dropdown form-select" aria-label="Default select example" id="prodi" onclick="cariprodi();">
+                    <option selected>Program Study</option>
+                    <option value="Teknik Informatika">Teknik Informatika</option>
+                    <option value="Teknik Elektro">Teknik Elektro</option>
+                    <option value="Teknik Mesin">Teknik Mesin</option>
+                  </select>
                  </div>
                  </div>
                   <div class="pt-3" id="tabel">
