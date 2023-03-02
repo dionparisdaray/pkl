@@ -104,7 +104,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Fitur Info Kampus:</h6>
             <a class="collapse-item" href="/daftarfilm">Organisasi</a>
-            <a class="collapse-item" href="/daftarfilm">Dosen</a>
+            <a class="collapse-item" href="/dosen">Dosen</a>
           </div>
         </div>
       </li>
@@ -126,8 +126,8 @@
       <div id="content">
 
         <!-- Topbar -->
-        <nav class="navbar navbar-expand navbar-light bg-gradient-primary topbar mb-4 static-top shadow">
-        <h2 class="text-white">Website Alumni TI Uhamka</h2>
+        <nav class="navbar navbar-expand navbar-light bg-gradient topbar mb-4 static-top shadow" style="background-color:	#4169E1;">
+        <h2 class="text-white">Alumni TI Uhamka</h2>
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>

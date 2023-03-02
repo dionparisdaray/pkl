@@ -108,7 +108,7 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Fitur Data Alumni:</h6>
-            <a class="collapse-item" href="/data">Data Alumni</a>
+            <a class="collapse-item" href="/tampil">Data Alumni</a>
           </div>
         </div>
       </li>
@@ -146,8 +146,8 @@
       <div id="content">
 
         <!-- Topbar -->
-        <nav class="navbar navbar-expand navbar-light bg-gradient-primary topbar mb-4 static-top shadow">
-        <h2 class="text-white">Website Alumni TI Uhamka</h2>
+        <nav class="navbar navbar-expand navbar-light bg-gradient topbar mb-4 static-top shadow" style="background-color:	#4169E1;">
+        <h2 class="text-white">Alumni TI Uhamka</h2>
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>
@@ -180,15 +180,63 @@
                   <h6 class="m-0 font-weight-bold text-primary" id="sejarah">Data Alumni</h6>
                 </div>
                 <div class="card-body">
-                  <ul><ul><ul>
-                  <form class="d-flex" role="search">
-                    <input class="form-control ms-auto" type="search" placeholder="Tahun Angkatan" aria-label="Search" id="tahunmasuk" style="width:230px;">
+                <div class="d-flex">
+                 <div class=" me-auto">
+                  <form class="d-flex " role="search">
+                    <input class="form-control" type="search" placeholder="NIM" aria-label="Search" id="nim" style="width:230px;">
                     <ul></ul>
                     <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="caribarang();">Cari</button>
                   </form>
-                      </ul></ul></ul>
-                  <div id="tabel">
+                  <br>
+                  <form class="d-flex" role="search">
+                    <input class="form-control me-auto" type="search" placeholder="Nama" aria-label="Search" id="nama" style="width:230px;">
+                    <ul></ul>
+                    <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="caribarang();">Cari</button>
+                  </form>
+                 </div>
+                 <div class="ms-auto">
+                 <select class="form-select" multiple aria-label="Default select example" id="tahunmasuk">
+                    <option selected>Open this select menu</option>
+                    <option value="2023">2022</option>
+                    <option value="2022">2022</option>
+                    <option value="2021">2021</option>
+                    <option value="2020" onclick="caribarang();">2020</option>
+                    <option value="2019" onclick="caribarang();">2019</option>
+                    <option value="2018">2018</option>
+                    <option value="2017">2017</option>
+                    <option value="2016">2016</option>
+                    <option value="2015">2015</option>
+                    <option value="2014">2014</option>
+                    <option value="2013">2013</option>
+                    <option value="2012">2012</option>
+                    <option value="2011">2011</option>
+                    <option value="2010">2010</option>
+                    <option value="2009">2009</option>
+                    <option value="2008">2008</option>
+                    <option value="2007">2007</option>
+                    <option value="2006">2006</option>
+                    <option value="2005">2005</option>
+                    <option value="2004">2004</option>
+                    <option value="2003">2003</option>
+                    <option value="2002">2002</option>
+                    <option value="2001">2001</option>
+                  </select>
+                  <br>
+                  <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Program Study
+                    </button>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">Teknik Informatika</a></li>
+                      <li><a class="dropdown-item" href="#">Teknik Mesin</a></li>
+                      <li><a class="dropdown-item" href="#">Teknik Elektro</a></li>
+                    </ul>
                   </div>
+                 </div>
+                 </div>
+                  <div class="pt-3" id="tabel">
+                  </div>
+                 </div>
                 </div>
           </div>
         </div>
@@ -243,7 +291,7 @@
             </div>
             
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63454.34265576803!2d106.79724519245228!3d-6.277347586831607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed581fd04607%3A0x98b000ec597ad204!2sFakultas%20Teknik%20Uhamka!5e0!3m2!1sid!2sid!4v1677029547796!5m2!1sid!2sid" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63454.34265576803!2d106.79724519245228!3d-6.277347586831607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed581fd04607%3A0x98b000ec597ad204!2sFakultas%20Teknik%20Uhamka!5e0!3m2!1sid!2sid!4v1677029547796!5m2!1sid!2sid" width="300" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         
         <div class="row">
