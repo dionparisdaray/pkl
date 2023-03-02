@@ -31,6 +31,6 @@ class FilmController extends Controller
     public function cari($id)
     {
         $data = DB::table('data')->where('tahunmasuk',$id)->get();
-        return view('index',['barang' => $data]);
+        return view('daftaralumni',['data' => $data]);
     }
 }

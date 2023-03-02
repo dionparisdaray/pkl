@@ -49,7 +49,8 @@
                       $('#tabel').html(data);
                       });
                       }
-    function caribarang(){
+
+                      function caribarang(){
         var tahunmasuk = document.getElementById("tahunmasuk").value;
         $.ajax({
                       type:"GET",
@@ -123,7 +124,7 @@
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Fitur Info Kampus:</h6>
             <a class="collapse-item" href="/daftarfilm">Organisasi</a>
-            <a class="collapse-item" href="/daftarfilm">Dosen</a>
+            <a class="collapse-item" href="/dosen">Dosen</a>
           </div>
         </div>
       </li>
@@ -179,17 +180,13 @@
                   <h6 class="m-0 font-weight-bold text-primary" id="sejarah">Data Alumni</h6>
                 </div>
                 <div class="card-body">
-                  <ul><ul><ul><ul>
-                    <div class="col-2">
-                        <label class="visually-hidden" for="autoSizingSelect">Preference</label>
-                        <select class="form-select" id="autoSizingSelect">
-                          <option selected>tahun angkatan</option>
-                          <option value="1">2018</option>
-                          <option value="2">2019</option>
-                          <option value="3">2020</option>
-                        </select>
-                      </div>
-                      </ul></ul></ul></ul>
+                  <ul><ul><ul>
+                  <form class="d-flex" role="search">
+                    <input class="form-control ms-auto" type="search" placeholder="Tahun Angkatan" aria-label="Search" id="tahunmasuk" style="width:230px;">
+                    <ul></ul>
+                    <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="caribarang();">Cari</button>
+                  </form>
+                      </ul></ul></ul>
                   <div id="tabel">
                   </div>
                 </div>

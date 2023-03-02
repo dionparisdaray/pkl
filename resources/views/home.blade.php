@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Data Alumni FTII Uhamka | Home</title>
+  <title>Data Alumni FT TI Uhamka | Home</title>
 
   <!-- Custom fonts for this template-->
   <link href="{{ asset('vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
@@ -45,6 +45,9 @@
 </head>
 
 <body id="page-top">
+  <div>
+    
+  </div>
 
   <!-- Page Wrapper -->
   <div id="wrapper">
@@ -85,9 +88,9 @@
           <i class="bi bi-people-fill"></i>
           <span>Alumni</span>
         </a>
-        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
-          <div class="bg-white py-2 collapse-inner rounded">
-            <h6 class="collapse-header">Fitur Data Alumni:</h6>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar" >
+          <div class="bg-white py-2 collapse-inner rounded" >
+            <h6 class="collapse-header" >Fitur Data Alumni:</h6>
             <a class="collapse-item" href="/tampil">Data Alumni</a>
           </div>
         </div>
@@ -126,7 +129,7 @@
       <div id="content">
 
         <!-- Topbar -->
-        <nav class="navbar navbar-expand navbar-light bg-gradient-primary topbar mb-4 static-top shadow">
+        <nav class="navbar navbar-expand navbar-light bg-gradient topbar mb-4 static-top shadow" style="background-color:	#4169E1;">
         <h2 class="text-white">Website Alumni TI Uhamka</h2>
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">

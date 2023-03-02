@@ -29,7 +29,8 @@
     <script type="text/javascript" src="{{ asset('js/jquery-3.6.0.min.js') }}"></script>
 </head>
 <body>
-<table border="1" class="table table-bordered border-dark table-info" style="max-width:80%; margin:0px auto">
+  <div class="d-flex">
+<table border="1" class="table table-bordered border-dark table-info" style="max-width:80%; min-width:20%; margin:0px auto">
         <tr>
             <!-- UNTUK NAMA KOLOM PADA TABEL -->
             <th>nim</th>
@@ -50,5 +51,6 @@
         </tr>
         @endforeach
     </table>
+    </div>
 </body>
 </html>

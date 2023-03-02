@@ -17,10 +17,10 @@ Route::get('/', [FilmController::class, 'home']);
 
 Route::get('/data', [FilmController::class, 'data']);
 
-Route::get('/tabel',[FilmController::class,'index']);
+Route::get('/tabel',[FilmController::class,'data']);
 
 Route::get('/tampil',[FilmController::class,'tampil']);
 
 Route::get('/dosen',[FilmController::class,'dosen']);
 
-Route::get('/cari/{id}',[App\Http\Controllers\KontrolBarang::class,'cari']);
+Route::get('/cari/{id}',[FilmController::class,'cari']);
