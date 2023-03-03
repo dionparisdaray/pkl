@@ -41,7 +41,7 @@
 
     <script type="text/javascript" src="{{ asset('js/jquery-3.6.0.min.js') }}"></script>
     <script type="text/javascript"> 
-    function lihatbarang(){
+    function lihatalumni(){
                       $.ajax({
                       type:"GET",
                       url:"/data"
@@ -97,7 +97,7 @@
 
 </head>
 
-<body onload="lihatbarang();" id="page-top">
+<body onload="lihatalumni();" id="page-top">
 
   <!-- Page Wrapper -->
   <div id="wrapper">
@@ -216,19 +216,19 @@
                 <div class="d-flex">
                  <div class=" me-auto">
                   <form class="d-flex " role="search">
-                    <input class="form-control" type="search" placeholder="NIM" aria-label="Search" id="nim" style="width:230px;">
+                    <input class="form-control" type="search" placeholder="NIM" aria-label="Search" id="nim" style="width:500px;">
                     <ul></ul>
                     <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="carinim();">Cari</button>
                   </form>
                   <br>
                   <form class="d-flex" role="search">
-                    <input class="form-control me-auto" type="search" placeholder="Nama" aria-label="Search" id="nama" style="width:230px;">
+                    <input class="form-control me-auto" type="search" placeholder="Nama" aria-label="Search" name="search" id="nama" style="width:500px;">
                     <ul></ul>
                     <button type="button" id="submit" class="btn btn-success btn" style="width:100px;" onclick="carinama();">Cari</button>
                   </form>
                  </div>
                  <div class="ms-auto">
-                 <select class="dropdown form-select" aria-label="Default select example" id="tahunmasuk" onclick="cariangkatan();">
+                 <select class="dropdown form-select" aria-label="Default select example" id="tahunmasuk" onclick="cariangkatan();" style="width:500px;">
                     <option selected>Tahun Angkatan</option>
                     <option value="2023">2022</option>
                     <option value="2022">2022</option>
@@ -255,12 +255,16 @@
                     <option value="2001">2001</option>
                   </select>
                   <br>
-                  <select class="dropdown form-select" aria-label="Default select example" id="prodi" onclick="cariprodi();">
+                  <select class="dropdown form-select" aria-label="Default select example" id="prodi" onclick="cariprodi();" style="width:500px;">
                     <option selected>Program Study</option>
                     <option value="Teknik Informatika">Teknik Informatika</option>
                     <option value="Teknik Elektro">Teknik Elektro</option>
                     <option value="Teknik Mesin">Teknik Mesin</option>
                   </select>
+                  <br>
+                  <form action="">
+                  <button type="button" id="submit" class="btn btn-outline-success" style="width:500px;" onclick="lihatalumni();">Tampilkan Data Alumni</button>
+                  </form>
                  </div>
                  </div>
                   <div class="pt-3" id="tabel">

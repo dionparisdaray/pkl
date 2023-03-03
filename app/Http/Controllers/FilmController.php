@@ -47,17 +47,17 @@ class FilmController extends Controller
     }
 
     public function carinama(Request $request)
-	{
-		// menangkap data pencarian
+    {
+        // menangkap data pencarian
 		$carinama = $request->carinama;
  
-    		// mengambil data dari table pegawai sesuai pencarian data
-		$data = DB::table('data')
+         // mengambil data dari table pegawai sesuai pencarian data
+        $data = DB::table('data')
 		->where('nama','like',"%".$carinama."%")
-		->paginate();
- 
-    		// mengirim data pegawai ke view index
-		return view('daftaralumni',['data' => $data]);
- 
-	}
+        ->paginate();
+     
+            // mengirim data pegawai ke view index
+        return view('daftaralumni',['data' => $data]);
+     
+    }
 }

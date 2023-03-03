@@ -29,4 +29,4 @@ Route::get('/cariprodi/{id}',[FilmController::class,'cariprodi']);
 
 Route::get('/carinim/{id}',[FilmController::class,'carinim']);
 
-Route::get('/carinama/{request}',[FilmController::class,'carinama']);
+Route::get('/carinama/{carinama}', [FilmController::class, 'carinama']);
