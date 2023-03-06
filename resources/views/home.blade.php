@@ -206,7 +206,7 @@
                   <ul>
                   <li>Informatika, jenjang Strata Satu (S-1)</li>
                   <li>Teknik Elektro, jenjang Strata Satu (S-1)</li>
-                  <li>Teknik Mesin, jenjang Strata Satu (S-1</li>
+                  <li>Teknik Mesin, jenjang Strata Satu (S-1)</li>
                   </ul>
               </div>
               <!-- End Section Anggota Sejarah -->
@@ -251,10 +251,10 @@
             aria-expanded="true" aria-controls="collapseCardExample">
               <h6 class="m-0 font-weight-bold text-primary" id="berita">Latest News</h6>
                 </a>
-            <div class="container">
-            <div class="row">
-            <div class="col-6">
-            <h3 class="mb-3">Carousel cards title </h3>
+            <div class="container-fluid">
+            <div class="row d-flex pt-3">
+            <div class="col-6 ">
+            <h3 class="mb-3">Latest News </h3>
             </div>
             <div class="col-6 text-right">
                 <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev">
@@ -264,7 +264,7 @@
                     <i class="fa fa-arrow-right"></i>
                 </a>
             </div>
-            <div class="col-12">
+            <div class="col-12" >
                 <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
 
                     <div class="carousel-inner">
