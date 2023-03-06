@@ -204,12 +204,12 @@
               <div class="card-body">
                   Fakultas Teknik (FT) Universitas Muhammadiyah Prof.DR. HAMKA (UHAMKA) didirikan pada tanggal 30 Mei 1997 sesuai SK Direktorat Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia Nomor 138/DIKTI/Kep/1997. Saat ini Fakultas Teknik UHAMKA mengelola tiga Program Studi yang ketiganya telah terakreditasi yaitu:
                   <ul>
-                  <li>1.Informatika, jenjang Strata Satu (S-1)</li>
-                  <li>2.Teknik Elektro, jenjang Strata Satu (S-1)</li>
-                  <li>3.Teknik Mesin, jenjang Strata Satu (S-1</li>
+                  <li>Informatika, jenjang Strata Satu (S-1)</li>
+                  <li>Teknik Elektro, jenjang Strata Satu (S-1)</li>
+                  <li>Teknik Mesin, jenjang Strata Satu (S-1</li>
                   </ul>
               </div>
-              <!-- End Section Anggota Kelompok -->
+              <!-- End Section Anggota Sejarah -->
             </div>
 
             <!-- Collapsable Card Example -->
@@ -247,39 +247,149 @@
       </div>
       <div class="container-fluid" style="width:97%;">
         <div class="card shadow mb-4 " >
-          <a href="#collapseCardExample" class="d-block card-header p-3" data-toggle="collapse" role="button"
-                    aria-expanded="true" aria-controls="collapseCardExample">
-                    <h6 class="m-0 font-weight-bold text-primary" id="berita">Latest News</h6>
-                  </a>
-          <div class="card-group p-3">
-              <div class="card ">
-                <img src="https://ft.uhamka.ac.id/wp-content/uploads/2019/04/695A2187.jpg" class="card-img-top" alt="..." width="">
-                <div class="card-body">
-                  <h5 class="card-title">Praktikum Web</h5>
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                </div>
-              </div>
-              <div class="card">
-                <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/01/695A2204.jpg" class="card-img-top" alt="..."width="">
-                <div class="card-body">
-                  <h5 class="card-title">Webinar</h5>
-                  <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                </div>
-              </div>
-              <div class="card">
-                <img src="https://ft.uhamka.ac.id/wp-content/uploads/2019/04/695A3247.jpg" class="card-img-top" alt="..." width="">
-                <div class="card-body">
-                  <h5 class="card-title">Workshop</h5>
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          <a href="#collapseCardExample" class="d-block card-header p-3" 
+            aria-expanded="true" aria-controls="collapseCardExample">
+              <h6 class="m-0 font-weight-bold text-primary" id="berita">Latest News</h6>
+                </a>
+            <div class="container">
+            <div class="row">
+            <div class="col-6">
+            <h3 class="mb-3">Carousel cards title </h3>
             </div>
-          </div>
-        </div>
-      </div>
+            <div class="col-6 text-right">
+                <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+                    <i class="fa fa-arrow-left"></i>
+                </a>
+                <a class="btn btn-primary mb-3 " href="#carouselExampleIndicators2" role="button" data-slide="next">
+                    <i class="fa fa-arrow-right"></i>
+                </a>
+            </div>
+            <div class="col-12">
+                <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="row">
+
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <img class="img-fluid" alt="100%x280" src="https://ft.uhamka.ac.id/wp-content/uploads/2020/01/695A2204.jpg">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Special title treatment</h4>
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <img class="img-fluid" alt="100%x280" src="https://ft.uhamka.ac.id/wp-content/uploads/2019/04/695A2874.jpg">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Special title treatment</h4>
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <img class="img-fluid" alt="100%x280" src="https://ft.uhamka.ac.id/wp-content/uploads/2019/04/695A2187.jpg">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Special title treatment</h4>
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532771098148-525cefe10c23?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=3f317c1f7a16116dec454fbc267dd8e4">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Special title treatment</h4>
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532715088550-62f09305f765?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ebadb044b374504ef8e81bdec4d0e840">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Special title treatment</h4>
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=0754ab085804ae8a3b562548e6b4aa2e">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Special title treatment</h4>
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ee8417f0ea2a50d53a12665820b54e23">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Special title treatment</h4>
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532777946373-b6783242f211?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=8ac55cf3a68785643998730839663129">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Special title treatment</h4>
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="card">
+                                        <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532763303805-529d595877c5?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=5ee4fd5d19b40f93eadb21871757eda6">
+                                        <div class="card-body">
+                                            <h4 class="card-title">Special title treatment</h4>
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
       <!-- End of Page Wrapper -->
+      <div>
       <footer class="ftco-footer ftco-bg-dark ftco-section" id="contact">
       <div class="container">
         <div class="row mb-5">
@@ -344,7 +454,7 @@
       <a class="scroll-to-top rounded" href="#page-top">
         <i class="fas fa-angle-up"></i>
       </a>
-
+      </div>
       <!-- Bootstrap core JavaScript-->
       <script src="{{ asset('vendor/jquery/jquery.min.js') }}"></script>
       <script src="{{ asset('vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
