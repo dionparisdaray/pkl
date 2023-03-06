@@ -255,6 +255,91 @@
                     </p>
                   </div>
                 </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>
+                  <span>Hamid Al-Jufri</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('storage/hamid.jpeg')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0027026701
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S3 - Manajemen
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    jufri@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Education Management
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>
+                  <span>Endy Syaiful Alim, S.T., M.T., Ph.D.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('storage/endy.jpg')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0322077101
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S3 Computer Applied Technology, Huazhong University of Science and Technology
+
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    endy@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Computer for Education, ICT, Cloud Computing for Education
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>
+                  <span>Firman Noor Hasan, S.Kom., M.TI.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('storage/firman.jpeg')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0301088305
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 - Teknik Informatika Binus University (Information Technology Infrastructure Management)
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    data warehouse, business intelligence
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    data warehouse, business intelligence
+                    </p>
+                  </div>
+                </div>
               </div>
               <!-- End Section Anggota Kelompok -->
             </div>
