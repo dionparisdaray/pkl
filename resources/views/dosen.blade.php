@@ -262,7 +262,7 @@
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="{{asset('storage/hamid.jpeg')}}" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-29-at-23.10.25-1-232x300.jpeg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
@@ -290,7 +290,7 @@
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="{{asset('storage/endy.jpg')}}" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/endy.jpg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
@@ -319,7 +319,7 @@
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="{{asset('storage/firman.jpeg')}}" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/firman-205x300.jpeg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
@@ -337,6 +337,60 @@
                     <p>
                     <strong>Bidang Keahlian: </strong>
                     data warehouse, business intelligence
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>
+                  <span>Wildan Toyib, M.Eng.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-28-at-04.13.42-e1582931620603-218x300.jpeg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0715068201
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Advanced Information Science and Technology, Pukyong National
+                    </p>
+                    <p>
+                    <strong>Email: wildan.thoyib@uhamka.ac.id</strong>
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Big data, Bioinformatika, computational intelligence, knowledge based
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>
+                  <span>Estu Sinduningrum, S.T., M.T.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/estu-222x300.jpeg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0314098403
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Manajemen telekomunikasi, Universitas Telkom (Tel-U)
+                    </p>
+                    <p>
+                    <strong>Email:estu.ningrum@uhamka.ac.id </strong>
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Sistem digital, pengolahan citra, algoritma dan pemprograman
                     </p>
                   </div>
                 </div>
