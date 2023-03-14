@@ -163,7 +163,7 @@
             <h1 class="mb-0 text-gray-800 ps-3">Dosen</h1>
           </div>
 
-          <!-- Section Anggota Kelompok -->
+          
           <h1 class="mb-0 text-gray-800 ps-3">Teknik Informatika Uhamka</h1>
 
           <div class="container-fluid">
@@ -173,10 +173,13 @@
                 <h6 class="m-0 font-weight-bold text-primary" id="dosen">Dosen Tetap TI</h6>
               </div>
               <div class="card-body">
-                <h4>
+              <div class="row">
+              <div class="col-lg-6">
+              <h4>
                   <span>Arry Avorizano, S.Kom., M.Kom</span>
                 </h4>
                 <div class="d-flex">
+                  
                   <div>
                     <img src="{{asset('storage/arry.jpeg')}}" alt="" height="223" width="187">
                   </div>
@@ -199,11 +202,12 @@
                     </p>
                   </div>
                 </div>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-                <h4>
+              </div>
+<div class="col-lg-6">
+<h4>
                   <span>Erizal, S.Kom., M.Kom</span>
                 </h4>
+    
                 <div class="d-flex">
                   <div>
                     <img src="{{asset('storage/erizal.jpeg')}}" alt="" height="223" width="187">
@@ -225,8 +229,43 @@
                     <strong>Bidang Keahlian: </strong>
                     Pemrograman, Logika Fuzzy
                     </p>
+                    </div>
                   </div>
-                </div>
+</div>
+              </div>
+              
+                
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>
+                  <span>Erizal, S.Kom., M.Kom</span>
+                </h4>
+    
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('storage/erizal.jpeg')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0302026504
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Ilmu Komputer, Universitas Budi Luhur
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    erizal@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Pemrograman, Logika Fuzzy
+                    </p>
+                    </div>
+                  </div>
+                
+              
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
                 <h4>
