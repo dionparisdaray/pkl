@@ -190,7 +190,7 @@
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 Ilmu Komputer, Universitas Budi Luhur
+                    S2-Ilmu Komputer, Universitas Budi Luhur
                     </p>
                     <p>
                     <strong>Email: </strong>
@@ -219,7 +219,7 @@
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 Ilmu Komputer, Universitas Budi Luhur
+                    S2-Ilmu Komputer, Universitas Budi Luhur
                     </p>
                     <p>
                     <strong>Email: </strong>
@@ -254,7 +254,7 @@
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 Ilmu Komputer, Universitas Gajah Mada
+                    S2-Ilmu Komputer, Universitas Gajah Mada
                     </p>
                     <p>
                     <strong>Email: </strong>
@@ -285,7 +285,7 @@
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S3 - Manajemen
+                    S3-Manajemen
                     </p>
                     <p>
                     <strong>Email: </strong>
@@ -318,7 +318,7 @@
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S3 Computer Applied Technology, Huazhong University of Science and Technology
+                    S3-Computer Applied Technology, Huazhong University of Science and Technology
 
                     </p>
                     <p>
@@ -350,7 +350,7 @@
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 - Teknik Informatika Binus University (Information Technology Infrastructure Management)
+                    S2-Teknik Informatika Binus University (Information Technology Infrastructure Management)
                     </p>
                     <p>
                     <strong>Email: </strong>
@@ -383,7 +383,7 @@
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 Ilmu Komputer, Universitas Budi Luhur
+                    S2-Ilmu Komputer, Universitas Budi Luhur
 
                     </p>
                     <p>
@@ -415,7 +415,7 @@
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 Teknologi Informasi, Universitas Indonesia
+                    S2-Teknologi Informasi, Universitas Indonesia
                     </p>
                     <p>
                     <strong>Email: </strong>
@@ -435,29 +435,29 @@
                 <div class="row">
                 <div class="col-lg-6">
                 <h4>
-                  <span>Endy Syaiful Alim, S.T., M.T., Ph.D.</span>
+                  <span>Nuroji, M.Kom.</span>
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/endy.jpg" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-29-at-23.10.25-210x300.jpeg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
                     <strong>NIDN: </strong>
-                    0322077101
+                    0304048505
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S3 Computer Applied Technology, Huazhong University of Science and Technology
+                    S2 
 
                     </p>
                     <p>
                     <strong>Email: </strong>
-                    endy@uhamka.ac.id
+                    nuroji@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
-                    Computer for Education, ICT, Cloud Computing for Education
+                    informatika, sistem informasi
                     </p>
                   </div>
                 </div>
@@ -467,28 +467,28 @@
                 </div>  
               <div class="col-lg-6">
               <h4>
-                  <span>Firman Noor Hasan, S.Kom., M.TI.</span>
+                  <span>Zuhri Halim, S.Kom., M.Kom.</span>
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/firman-205x300.jpeg" alt="" height="223" width="187">
+                    <img src=" https://ft.uhamka.ac.id/wp-content/uploads/2020/02/zuhri-e1582857304798-220x300.jpg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
                     <strong>NIDN: </strong>
-                    0301088305
+                    0313028602
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 - Teknik Informatika Binus University (Information Technology Infrastructure Management)
+                    S2-Teknik Informatika, STMIK Eresha
                     </p>
                     <p>
                     <strong>Email: </strong>
-                    data warehouse, business intelligence
+                    zuhri@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
-                    data warehouse, business intelligence
+                    Data Mining, Sistem Informasi, Rekayasa Bisnis
                     </p>
                   </div>
                 </div>
@@ -500,29 +500,29 @@
                 <div class="row">
                 <div class="col-lg-6">
                 <h4>
-                  <span>Endy Syaiful Alim, S.T., M.T., Ph.D.</span>
+                  <span>Arafat Febriandirza, S.T., M.TI., Ph.D.</span>
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/endy.jpg" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/arafat-600x800.jpeg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
                     <strong>NIDN: </strong>
-                    0322077101
+                    0224028603
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S3 Computer Applied Technology, Huazhong University of Science and Technology
+                    Ph.D-Communication and Transportation Engineering, Wuhan University of Technology, China
 
                     </p>
                     <p>
                     <strong>Email: </strong>
-                    endy@uhamka.ac.id
+                    arafat@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
-                    Computer for Education, ICT, Cloud Computing for Education
+                    IT Strategic Plan, Machine Learning, Modeling, Simulation
                     </p>
                   </div>
                 </div>
@@ -532,28 +532,28 @@
                 </div>  
               <div class="col-lg-6">
               <h4>
-                  <span>Firman Noor Hasan, S.Kom., M.TI.</span>
+                  <span>Mia Kamayani, S.T., M.T.</span>
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/firman-205x300.jpeg" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/mia-225x300.jpeg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
                     <strong>NIDN: </strong>
-                    0301088305
+                    0312028704
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 - Teknik Informatika Binus University (Information Technology Infrastructure Management)
+                    S2-Teknik Informatika, Institut Teknologi Bandung
                     </p>
                     <p>
                     <strong>Email: </strong>
-                    data warehouse, business intelligence
+                    mia.kamayani@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
-                    data warehouse, business intelligence
+                    machine learning, natural language processing, information technology
                     </p>
                   </div>
                 </div>
@@ -565,29 +565,29 @@
                 <div class="row">
                 <div class="col-lg-6">
                 <h4>
-                  <span>Endy Syaiful Alim, S.T., M.T., Ph.D.</span>
+                  <span>Nunik Pratiwi, S.T., M.Kom.</span>
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/endy.jpg" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/nunik-203x300.jpg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
                     <strong>NIDN: </strong>
-                    0322077101
+                    0302069105
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S3 Computer Applied Technology, Huazhong University of Science and Technology
+                    S2-Ilmu Komputer, Universitas Indonesia
 
                     </p>
                     <p>
                     <strong>Email: </strong>
-                    endy@uhamka.ac.id
+                    npratiwi@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
-                    Computer for Education, ICT, Cloud Computing for Education
+                    image processing
                     </p>
                   </div>
                 </div>
@@ -597,28 +597,28 @@
                 </div>  
               <div class="col-lg-6">
               <h4>
-                  <span>Firman Noor Hasan, S.Kom., M.TI.</span>
+                  <span>Ade Davy Wiranata, M.Kom</span>
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/firman-205x300.jpeg" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-14-at-10.39.37-AM-200x300.jpeg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
                     <strong>NIDN: </strong>
-                    0301088305
+                    0325119302
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 - Teknik Informatika Binus University (Information Technology Infrastructure Management)
+                    S2-Teknologi Sistem Informasi, Universitas Budi Luhur
                     </p>
                     <p>
                     <strong>Email: </strong>
-                    data warehouse, business intelligence
+                    adedavy@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
-                    data warehouse, business intelligence
+                    informatika, sistem informasi
                     </p>
                   </div>
                 </div>
@@ -630,29 +630,29 @@
                 <div class="row">
                 <div class="col-lg-6">
                 <h4>
-                  <span>Endy Syaiful Alim, S.T., M.T., Ph.D.</span>
+                  <span>Irwansyah, S.Kom., M.Kom.</span>
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/endy.jpg" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-27-at-16.24.01-225x300.jpeg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
                     <strong>NIDN: </strong>
-                    0322077101
+                    0321089205
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S3 Computer Applied Technology, Huazhong University of Science and Technology
+                    S2-Teknologi Sistem Informasi, Universitas Budi Luhur
 
                     </p>
                     <p>
                     <strong>Email: </strong>
-                    endy@uhamka.ac.id
+                    irwansyah@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
-                    Computer for Education, ICT, Cloud Computing for Education
+                    Data Mining, Sistem Pendukung Keputusan, Sistem Pakar
                     </p>
                   </div>
                 </div>
@@ -662,28 +662,28 @@
                 </div>  
               <div class="col-lg-6">
               <h4>
-                  <span>Firman Noor Hasan, S.Kom., M.TI.</span>
+                  <span>Nur Chalik Azhar, S.Kom., M.Kom</span>
                 </h4>
                 <div class="d-flex">
                   <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/firman-205x300.jpeg" alt="" height="223" width="187">
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2023/03/Nurchalik.jpg" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
                     <strong>NIDN: </strong>
-                    0301088305
+                    0321089205
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2 - Teknik Informatika Binus University (Information Technology Infrastructure Management)
+                    S3-Ilmu Komputer, Universitas Bina Nusantara
                     </p>
                     <p>
                     <strong>Email: </strong>
-                    data warehouse, business intelligence
+                    azharchalik@gmail.com
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
-                    data warehouse, business intelligence
+                    Information System, Management Information System
                     </p>
                   </div>
                 </div>
@@ -692,71 +692,7 @@
               </div>
 
                 </div>
-                <div class="row">
-                <div class="col-lg-6">
-                <h4>
-                  <span>Endy Syaiful Alim, S.T., M.T., Ph.D.</span>
-                </h4>
-                <div class="d-flex">
-                  <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/endy.jpg" alt="" height="223" width="187">
-                  </div>
-                  <div class="ps-1">
-                    <p>
-                    <strong>NIDN: </strong>
-                    0322077101
-                    </p>
-                    <p>
-                    <strong>Pendidikan Terakhir: </strong>
-                    S3 Computer Applied Technology, Huazhong University of Science and Technology
-
-                    </p>
-                    <p>
-                    <strong>Email: </strong>
-                    endy@uhamka.ac.id
-                    </p>
-                    <p>
-                    <strong>Bidang Keahlian: </strong>
-                    Computer for Education, ICT, Cloud Computing for Education
-                    </p>
-                  </div>
-                </div>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-
-                </div>  
-              <div class="col-lg-6">
-              <h4>
-                  <span>Firman Noor Hasan, S.Kom., M.TI.</span>
-                </h4>
-                <div class="d-flex">
-                  <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/firman-205x300.jpeg" alt="" height="223" width="187">
-                  </div>
-                  <div class="ps-1">
-                    <p>
-                    <strong>NIDN: </strong>
-                    0301088305
-                    </p>
-                    <p>
-                    <strong>Pendidikan Terakhir: </strong>
-                    S2 - Teknik Informatika Binus University (Information Technology Infrastructure Management)
-                    </p>
-                    <p>
-                    <strong>Email: </strong>
-                    data warehouse, business intelligence
-                    </p>
-                    <p>
-                    <strong>Bidang Keahlian: </strong>
-                    data warehouse, business intelligence
-                    </p>
-                  </div>
-                </div>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-              </div>
-
-                </div>
+                
                 <div class="row">
                 <div class="col-lg-6">
                 <h4>
@@ -820,6 +756,43 @@
 
                 </div>
               </div>
+              <div class="row">
+                <div class="col-lg-6">
+                <h4>
+                  <span>Zuhratul Aini Mansur</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-30-at-09.28.25-200x300.jpeg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0320027802
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2-Hukum Islam
+
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    -
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Islamic Studies
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                </div>  
+             
+              </div>
+
+                </div>
               <!-- End Section Anggota Kelompok -->
             </div>
 
@@ -842,10 +815,10 @@
             <div class="ftco-footer-widget mb-4 ml-md-5">
               <h2 class="ftco-heading-2">Information</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">About</a></li>
-                <li><a href="#" class="py-2 d-block">Services</a></li>
-                <li><a href="#" class="py-2 d-block">Term and Conditions</a></li>
-                <li><a href="#" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
+                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">About</a></li>
+                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">Services</a></li>
+                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">Term and Conditions</a></li>
+                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
               </ul>
             </div>
           </div>
@@ -853,9 +826,9 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-3">Customer Support</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">FAQ</a></li>
-                <li><a href="#" class="py-2 d-block">How it works</a></li>
-                <li><a href="#" class="py-2 d-block">Contact Us</a></li>
+                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">FAQ</a></li>
+                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">How it works</a></li>
+                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">Contact Us</a></li>
               </ul>
             </div>
           </div>
@@ -865,8 +838,8 @@
             	<div class="block-23 mb-3">
 	              <ul>
                   <li><span class="bi bi-geo-alt-fill"></span><span class="text">Jl. Tanah Merdeka No.6, RT.10/RW.5, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830</span></li>
-	                <li><a href="#"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
-	                <li><a href="#"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
+	                <li><a href="https://ft.uhamka.ac.id/"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
+	                <li><a href="https://ft.uhamka.ac.id/"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
 	              </ul>    
 	            </div>
               
