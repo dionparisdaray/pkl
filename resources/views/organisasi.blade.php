@@ -38,7 +38,19 @@
     integrity="sha512-3pIirOrwegjM6erE5gPSwkUzO+3cTjpnV9lexlNZqvupR64iZBnOOTiiLPb9M36zpMScbmUNIcHUqKD47M719g=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-
+  <!-- javascript maps -->
+  <script>(function(d, s, id){
+                   var js, fjs = 
+            d.getElementsByTagName(s)[0];
+                   var ro =
+            !!d.getElementById(id);
+                   js = d.createElement(s);
+            js.id = id;
+                   js.src = 
+            "https://widgets.moovit.com/ws/F7002C6D397B5E1AE0530100007FF3E5/4927700";
+            fjs.parentNode.insertBefore(js, fjs);
+            })
+            (document, 'script' , 'moovit-jsw');</script>
 
 
 
@@ -180,7 +192,7 @@
                         <div class="card-body">
                           <h5 class="card-title">HIMA TI</h5>
                           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                          <a href="#" class="btn btn-primary">selengkapnya </a>
+                          <a href="https://www.instagram.com/himati_uhamka/?hl=id" class="btn btn-primary">selengkapnya </a>
                         </div>
                       </div>
                     </div>
@@ -190,7 +202,7 @@
                         <div class="card-body">
                           <h5 class="card-title">HIMA TE</h5>
                           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                          <a href="#" class="btn btn-primary">selengkapnya </a>
+                          <a href="https://www.instagram.com/hme.uhamka/?hl=id" class="btn btn-primary">selengkapnya </a>
                         </div>
                       </div>
                     </div>
@@ -200,7 +212,7 @@
                         <div class="card-body">
                           <h5 class="card-title">HIMA TM</h5>
                           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-                          <a href="#" class="btn btn-primary">selengkapnya </a>
+                          <a href="https://www.instagram.com/hmm_uhamka/" class="btn btn-primary">selengkapnya </a>
                         </div>
                       </div>
                     </div>
@@ -210,25 +222,27 @@
                         <div class="card-body">
                           <h5 class="card-title">IMM</h5>
                           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                          <a href="#" class="btn btn-primary">selengkapnya </a>
+                          <a href="https://www.instagram.com/pkimmftiiuhamka/" class="btn btn-primary">selengkapnya </a>
                         </div>
                       </div>
                     </div>
                     <div class="col">
                       <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="https://scontent.fcgk3-4.fna.fbcdn.net/v/t39.30808-6/299347379_395000316077563_6973633466185777075_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEIiMetKsVJBTVDscVakGgA7YfKqe55Ok_th8qp7nk6TzQgl-TY_U50UJuG6EigxHQm7NAUVhVBEbBNgHtB7r1D&_nc_ohc=7gGCQqlT1egAX_MgiY-&_nc_zt=23&_nc_ht=scontent.fcgk3-4.fna&oh=00_AfAMw-QWw1wWskzUtz8GKl5vt4lH5oGVFSSDuLN_5PakFA&oe=64177A74" class="card-img-top" alt="..."style="width:200px; height:200px; margin:auto;">
                         <div class="card-body">
                           <h5 class="card-title">Card title</h5>
                           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          <a href="https://www.instagram.com/dpmftiiuhamka/" class="btn btn-primary">selengkapnya </a>
                         </div>
                       </div>
                     </div>
                     <div class="col">
                       <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="https://3.bp.blogspot.com/-_qRbgpPsv-Q/UjtRWKNKGII/AAAAAAAAAaE/aJWSHnbylPo/s1600/ft.jpg" class="card-img-top" alt="..."style="width:200px; height:200px; margin:auto;">
                         <div class="card-body">
                           <h5 class="card-title">Card title</h5>
                           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          <a href="https://www.instagram.com/bemftiiuhamka/p/BG2vUsQnmfs/" class="btn btn-primary">selengkapnya </a>
                         </div>
                       </div>
                     </div>
@@ -245,50 +259,52 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Social Media</h2>
-            <ul class="list-unstyled">
-            <li><i class="bi bi-instagram py-2 d-block" style="font-style: normal !important;">instagram FT</i></li>
-            <li><i class="bi bi-facebook py-2 d-block" style="font-style: normal !important;">facebook FT</i></li>
+          <div class="ftco-footer-widget mb-4">
+          <h3 class="ftco-heading-2">UHAMKA</h3>
+          <hr>
+              <ul class="list-unstyled">
+                <img src="https://sbmptmu.id/wp-content/uploads/2022/04/03-LOGO-UHAMKA-BERWARNA-.png-mochamad-elfan-1024x1024.png" alt="" style="width:300px; height:300px;">
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Information</h2>
+              <h3 class="ftco-heading-2">Contact</h3>
+              <hr>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">About</a></li>
-                <li><a href="#" class="py-2 d-block">Services</a></li>
-                <li><a href="#" class="py-2 d-block">Term and Conditions</a></li>
-                <li><a href="#" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
+              <li><i class="bi bi-instagram py-2 d-block" style="font-style: normal !important;">instagram FT</i></li>
+              <li><i class="bi bi-facebook py-2 d-block" style="font-style: normal !important;">facebook FT</i></li>
               </ul>
             </div>
-          </div>
+          </div>      
           <div class="col-md">
-             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-3">Customer Support</h2>
-              <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">FAQ</a></li>
-                <li><a href="#" class="py-2 d-block">How it works</a></li>
-                <li><a href="#" class="py-2 d-block">Contact Us</a></li>
+          <div class="ftco-footer-widget mb-4">
+            <h3 class="ftco-heading-2">Social Media</h3>
+            <hr>
+            <ul class="list-unstyled">
+                <li><span class="bi bi-geo-alt-fill"></span><span class="text">Jl. Tanah Merdeka No.6, RT.10/RW.5, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830</span></li>
+	              <li><a href="#"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
+	              <li><a href="#"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">Address</h2>
+            	<h3 class="ftco-heading-2">Ayo ke UHAMKA</h3>
+              <hr>
             	<div class="block-23 mb-3">
 	              <ul>
-                  <li><span class="bi bi-geo-alt-fill"></span><span class="text">Jl. Tanah Merdeka No.6, RT.10/RW.5, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830</span></li>
-	                <li><a href="#"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
-	                <li><a href="#"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
+                <div class="mv-gd-widget-20"
+                          data-width="350px"
+                          data-height="500px"
+                          data-id="4927700">
+              </div>
 	              </ul>    
 	            </div>
               
             </div>
             
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63454.34265576803!2d106.79724519245228!3d-6.277347586831607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed581fd04607%3A0x98b000ec597ad204!2sFakultas%20Teknik%20Uhamka!5e0!3m2!1sid!2sid!4v1677029547796!5m2!1sid!2sid" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         
         <div class="row">
