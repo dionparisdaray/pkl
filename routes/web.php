@@ -21,6 +21,8 @@ Route::get('/tabel',[FilmController::class,'data']);
 
 Route::get('/tampil',[FilmController::class,'tampil']);
 
+Route::get('/organisasi',[FilmController::class,'organisasi']);
+
 Route::get('/dosen',[FilmController::class,'dosen']);
 
 Route::get('/cari/{id}',[FilmController::class,'cari']);

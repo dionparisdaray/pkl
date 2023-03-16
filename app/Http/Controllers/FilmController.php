@@ -28,6 +28,11 @@ class FilmController extends Controller
         return view('dosen');
     }
 
+    public function organisasi()
+    {
+        return view('organisasi');
+    }
+
     public function cari($id)
     {
         $data = DB::table('data')->where('tahunmasuk',$id)->get();

@@ -106,7 +106,7 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Fitur Info Kampus:</h6>
-            <a class="collapse-item" href="/daftarfilm">Organisasi</a>
+            <a class="collapse-item" href="/organisasi">Organisasi</a>
             <a class="collapse-item" href="/dosen">Dosen</a>
           </div>
         </div>
@@ -247,9 +247,9 @@
       </div>
       <div class="container-fluid" style="width:97%;">
         <div class="card shadow mb-4 " >
-          <a href="#collapseCardExample" class="d-block card-header p-3" 
+          <a href="#collapseCardExample" class="d-block card-header py-3" 
             aria-expanded="true" aria-controls="collapseCardExample">
-              <h6 class="m-0 font-weight-bold text-primary" id="berita">Latest News</h6>
+              <h6 class="m-1 font-weight-bold text-primary" id="berita">Latest News</h6>
                 </a>
             <div class="container-fluid">
             <div class="row d-flex pt-3">
