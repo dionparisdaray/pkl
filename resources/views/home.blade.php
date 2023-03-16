@@ -56,10 +56,6 @@
 </head>
 
 <body id="page-top">
-  <div>
-    
-  </div>
-
   <!-- Page Wrapper -->
   <div id="wrapper">
 
@@ -440,17 +436,13 @@
             	<h3 class="ftco-heading-2">Ayo ke UHAMKA</h3>
               <hr>
             	<div class="block-23 mb-3">
-	              <ul>
                 <div class="mv-gd-widget-20"
                           data-width="350px"
                           data-height="500px"
                           data-id="4927700">
-              </div>
-	              </ul>    
-	            </div>
-              
+              </div>  
+	            </div>   
             </div>
-            
           </div>
         </div>
         
