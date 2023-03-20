@@ -179,7 +179,7 @@
                         <img src="https://2.bp.blogspot.com/-kVfeEqdkPCQ/T0z_YDFcPtI/AAAAAAAAAYM/P9887ywycX0/s320/hima+ti+uhamka.jpg" class="card-img-top" alt="HIMATI" style="width:200px; height:200px; margin:auto;">
                         <div class="card-body">
                           <h5 class="card-title">HIMA TI</h5>
-                          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          <p class="card-text">HIMA TI UHAMKA adalah organisasi kemahasiswaan di tingkat Program Studi Teknik Informatika Universitas Muhammadiyah Prof. DR. HAMKA sebagai wadah penampung aspirasi seluruh mahasiswa Teknik Informatika UHAMKA. Selama periode kepengurusan, salah satu acara yang kami selenggarakan adalah IT Festival yang terdiri dari 3 serangkaian acara yaitu, lomba, workshop dan seminar.</p>
                           <a href="#" class="btn btn-primary">selengkapnya </a>
                         </div>
                       </div>
@@ -209,7 +209,7 @@
                         <img src="https://i.pinimg.com/originals/f6/68/76/f668764c816260373394cc5a53bd4ca3.png" class="card-img-top" alt="IMM" style="width:200px; height:200px; margin:auto;">
                         <div class="card-body">
                           <h5 class="card-title">IMM</h5>
-                          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          <p class="card-text">IMM bertujuan untuk mengusahakan terbentuknya akademisi Islam yang berakhlak mulia dalam rangka mencapai tujuan Muhammadiyah, yakni menegakkan dan menjunjung tinggi Agama Islam sehingga terwujud masyarakat Islam yang sebenar-benarnya.</p>
                           <a href="#" class="btn btn-primary">selengkapnya </a>
                         </div>
                       </div>
