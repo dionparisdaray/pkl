@@ -206,7 +206,7 @@
             <!-- Basic Card Example -->
             <div class="card shadow mb-4">
               <div class="card-header py-3">
-                <h6 class="m-0 font-weight-bold text-primary" id="sejarah">Sejarah FT Uhamka</h6>
+                <h6 class="m-0 font-weight-bold text-primary" id="sejarah">Sejarah FTII Uhamka</h6>
               </div>
               <div class="card-body">
                   Fakultas Teknik (FT) Universitas Muhammadiyah Prof.DR. HAMKA (UHAMKA) didirikan pada tanggal 30 Mei 1997 sesuai SK Direktorat Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia Nomor 138/DIKTI/Kep/1997. Saat ini Fakultas Teknik UHAMKA mengelola tiga Program Studi yang ketiganya telah terakreditasi yaitu:
@@ -214,6 +214,7 @@
                   <li>Informatika, jenjang Strata Satu (S-1)</li>
                   <li>Teknik Elektro, jenjang Strata Satu (S-1)</li>
                   <li>Teknik Mesin, jenjang Strata Satu (S-1)</li>
+                  <li>Sistem Teknologi Informasi, jenjang Strata Satu (S-1)</li>
                   </ul>
               </div>
               <!-- End Section Anggota Sejarah -->
@@ -256,12 +257,12 @@
         <div class="card shadow mb-4 " >
           <a href="#collapseCardExample" class="d-block card-header py-3" 
             aria-expanded="true" aria-controls="collapseCardExample">
-              <h6 class="m-1 font-weight-bold text-primary" id="berita">Latest News</h6>
+              <h6 class="m-1 font-weight-bold text-primary" id="berita">Berita</h6>
                 </a>
             <div class="container-fluid">
             <div class="row d-flex pt-3">
             <div class="col-6 ">
-            <h3 class="mb-3">Latest News </h3>
+            <h3 class="mb-3">Berita </h3>
             </div>
             <div class="col-6 text-right">
                 <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev">
