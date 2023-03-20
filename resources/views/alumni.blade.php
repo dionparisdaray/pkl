@@ -124,7 +124,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
         <i class="bi bi-mortarboard-fill"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Data Alumni TI Uhamka</div>
+        <div class="sidebar-brand-text mx-3">Data Alumni FTII Uhamka</div>
       </a>
 
       <!-- Divider -->
@@ -194,7 +194,7 @@
 
         <!-- Topbar -->
         <nav class="navbar navbar-expand navbar-light bg-gradient topbar mb-4 static-top shadow" style="background-color:	#4169E1;">
-        <h2 class="text-white">Alumni TI Uhamka</h2>
+        <h2 class="text-white">Alumni FTII Uhamka</h2>
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>
@@ -202,16 +202,16 @@
           <div class="collapse navbar-collapse text-right" id="navbarText">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link" style=" font-weight: bold; color: #ffff;" href="#home">Home</a>
+            <a class="nav-link" style=" font-weight: bold; color: #ffff;" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#sejarah"> Sejarah</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/"> Sejarah</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#visimisi">Visi Misi</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/">Visi Misi</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#berita">Berita</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/">Berita</a>
           </li>
           <li class="nav-item">
             <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#contact">Contact</a>
@@ -288,8 +288,12 @@
           </div>
         </div>
 
-
-
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
       <!-- End of Page Wrapper -->
       <footer class="ftco-footer ftco-bg-dark ftco-section" id="contact">
       <div class="container">

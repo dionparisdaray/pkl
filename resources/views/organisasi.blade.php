@@ -69,7 +69,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
         <i class="bi bi-mortarboard-fill"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Data Alumni TI Uhamka</div>
+        <div class="sidebar-brand-text mx-3">Data Alumni FTII Uhamka</div>
       </a>
 
       <!-- Divider -->
@@ -139,7 +139,7 @@
 
         <!-- Topbar -->
         <nav class="navbar navbar-expand navbar-light bg-gradient topbar mb-4 static-top shadow" style="background-color:	#4169E1;">
-        <h2 class="text-white">Alumni TI Uhamka</h2>
+        <h2 class="text-white">Alumni FTII Uhamka</h2>
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>
@@ -147,19 +147,19 @@
           <div class="collapse navbar-collapse text-right" id="navbarText">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link" style=" font-weight: bold; color: #ffff;" href="/home">Home</a>
+            <a class="nav-link" style=" font-weight: bold; color: #ffff;" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/home"> Sejarah</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/"> Sejarah</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/home">Visi Misi</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/">Visi Misi</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/home">Berita</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/">Berita</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/home">Contact</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#contact">Contact</a>
           </li>
 
         </ul>
@@ -176,7 +176,9 @@
           </div>
 
           
-          <h1 class="mb-0 text-gray-800 ps-3">Teknik Informatika Uhamka</h1>
+          <h1 class="mb-0 text-gray-800 ps-3">Teknologi Industri dan Informatika UHAMKA</h1>
+
+          <br><br>
 
           <div class="container-fluid">
             <!-- Basic Card Example -->
@@ -228,9 +230,9 @@
                     </div>
                     <div class="col">
                       <div class="card">
-                        <img src="https://scontent.fcgk3-4.fna.fbcdn.net/v/t39.30808-6/299347379_395000316077563_6973633466185777075_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEIiMetKsVJBTVDscVakGgA7YfKqe55Ok_th8qp7nk6TzQgl-TY_U50UJuG6EigxHQm7NAUVhVBEbBNgHtB7r1D&_nc_ohc=7gGCQqlT1egAX_MgiY-&_nc_zt=23&_nc_ht=scontent.fcgk3-4.fna&oh=00_AfAMw-QWw1wWskzUtz8GKl5vt4lH5oGVFSSDuLN_5PakFA&oe=64177A74" class="card-img-top" alt="..."style="width:200px; height:200px; margin:auto;">
+                        <img src="https://scontent.fcgk3-4.fna.fbcdn.net/v/t39.30808-6/299347379_395000316077563_6973633466185777075_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEIiMetKsVJBTVDscVakGgA7YfKqe55Ok_th8qp7nk6TzQgl-TY_U50UJuG6EigxHQm7NAUVhVBEbBNgHtB7r1D&_nc_ohc=R4pXWHDIXO4AX8_Xamw&_nc_zt=23&_nc_ht=scontent.fcgk3-4.fna&oh=00_AfC0Go-Zu725_uR2ef6eiW8IbwuAhOkPqszF8HLEl_MIow&oe=641D6934" class="card-img-top" alt="..."style="width:200px; height:200px; margin:auto;">
                         <div class="card-body">
-                          <h5 class="card-title">Card title</h5>
+                          <h5 class="card-title">DPM FTII</h5>
                           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                           <a href="https://www.instagram.com/dpmftiiuhamka/" class="btn btn-primary">selengkapnya </a>
                         </div>
@@ -240,7 +242,7 @@
                       <div class="card">
                         <img src="https://3.bp.blogspot.com/-_qRbgpPsv-Q/UjtRWKNKGII/AAAAAAAAAaE/aJWSHnbylPo/s1600/ft.jpg" class="card-img-top" alt="..."style="width:200px; height:200px; margin:auto;">
                         <div class="card-body">
-                          <h5 class="card-title">Card title</h5>
+                          <h5 class="card-title">BEM FTII</h5>
                           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                           <a href="https://www.instagram.com/bemftiiuhamka/p/BG2vUsQnmfs/" class="btn btn-primary">selengkapnya </a>
                         </div>
@@ -251,6 +253,12 @@
               </div>
               <!-- End Section Anggota Kelompok -->
             </div>
+
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
 
 
 </div>
