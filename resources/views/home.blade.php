@@ -38,17 +38,24 @@
     integrity="sha512-3pIirOrwegjM6erE5gPSwkUzO+3cTjpnV9lexlNZqvupR64iZBnOOTiiLPb9M36zpMScbmUNIcHUqKD47M719g=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-
-
+  <!-- javascript maps -->
+  <script>(function(d, s, id){
+                   var js, fjs = 
+            d.getElementsByTagName(s)[0];
+                   var ro =
+            !!d.getElementById(id);
+                   js = d.createElement(s);
+            js.id = id;
+                   js.src = 
+            "https://widgets.moovit.com/ws/F7002C6D397B5E1AE0530100007FF3E5/4927700";
+            fjs.parentNode.insertBefore(js, fjs);
+            })
+            (document, 'script' , 'moovit-jsw');</script>
 
 
 </head>
 
 <body id="page-top">
-  <div>
-    
-  </div>
-
   <!-- Page Wrapper -->
   <div id="wrapper">
 
@@ -60,7 +67,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
         <i class="bi bi-mortarboard-fill"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Data Alumni TI Uhamka</div>
+        <div class="sidebar-brand-text mx-3">Data Alumni FTII Uhamka</div>
       </a>
 
       <!-- Divider -->
@@ -130,7 +137,7 @@
 
         <!-- Topbar -->
         <nav class="navbar navbar-expand navbar-light bg-gradient topbar mb-4 static-top shadow" style="background-color:	#4169E1;">
-        <h2 class="text-white">Alumni TI Uhamka</h2>
+        <h2 class="text-white">Alumni FTII Uhamka</h2>
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>
@@ -199,7 +206,7 @@
             <!-- Basic Card Example -->
             <div class="card shadow mb-4">
               <div class="card-header py-3">
-                <h6 class="m-0 font-weight-bold text-primary" id="sejarah">Sejarah FT Uhamka</h6>
+                <h6 class="m-0 font-weight-bold text-primary" id="sejarah">Sejarah FTII Uhamka</h6>
               </div>
               <div class="card-body">
                   Fakultas Teknik (FT) Universitas Muhammadiyah Prof.DR. HAMKA (UHAMKA) didirikan pada tanggal 30 Mei 1997 sesuai SK Direktorat Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia Nomor 138/DIKTI/Kep/1997. Saat ini Fakultas Teknik UHAMKA mengelola tiga Program Studi yang ketiganya telah terakreditasi yaitu:
@@ -207,6 +214,7 @@
                   <li>Informatika, jenjang Strata Satu (S-1)</li>
                   <li>Teknik Elektro, jenjang Strata Satu (S-1)</li>
                   <li>Teknik Mesin, jenjang Strata Satu (S-1)</li>
+                  <li>Sistem Teknologi Informasi, jenjang Strata Satu (S-1)</li>
                   </ul>
               </div>
               <!-- End Section Anggota Sejarah -->
@@ -249,12 +257,12 @@
         <div class="card shadow mb-4 " >
           <a href="#collapseCardExample" class="d-block card-header py-3" 
             aria-expanded="true" aria-controls="collapseCardExample">
-              <h6 class="m-1 font-weight-bold text-primary" id="berita">Latest News</h6>
+              <h6 class="m-1 font-weight-bold text-primary" id="berita">Berita</h6>
                 </a>
             <div class="container-fluid">
             <div class="row d-flex pt-3">
             <div class="col-6 ">
-            <h3 class="mb-3">Latest News </h3>
+            <h3 class="mb-3">Berita </h3>
             </div>
             <div class="col-6 text-right">
                 <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev">
@@ -380,8 +388,10 @@
                     </div>
                 </div>
             </div>
-</div>
-</div>
+          </div>
+        </div>
+      </div>
+    </div>
 
 <br>
 <br>
@@ -389,55 +399,52 @@
 <br>
 <br>
       <!-- End of Page Wrapper -->
-      <div>
-      <footer class="ftco-footer ftco-bg-dark ftco-section" id="contact">
+      <footer class="ftco-footer ftco-bg-dark ftco-section" id="contact" style>
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Social Media</h2>
-            <ul class="list-unstyled">
-            <li><i class="bi bi-instagram py-2 d-block" style="font-style: normal !important;">instagram FT</i></li>
-            <li><i class="bi bi-facebook py-2 d-block" style="font-style: normal !important;">facebook FT</i></li>
+          <div class="ftco-footer-widget mb-4">
+          <h3 class="ftco-heading-2">UHAMKA</h3>
+          <hr>
+              <ul class="list-unstyled">
+                <img src="https://sbmptmu.id/wp-content/uploads/2022/04/03-LOGO-UHAMKA-BERWARNA-.png-mochamad-elfan-1024x1024.png" alt="" style="width:300px; height:300px;">
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Information</h2>
+              <h3 class="ftco-heading-2">Contact</h3>
+              <hr>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">About</a></li>
-                <li><a href="#" class="py-2 d-block">Services</a></li>
-                <li><a href="#" class="py-2 d-block">Term and Conditions</a></li>
-                <li><a href="#" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
+              <li><i class="bi bi-instagram py-2 d-block" style="font-style: normal !important;">instagram FT</i></li>
+              <li><i class="bi bi-facebook py-2 d-block" style="font-style: normal !important;">facebook FT</i></li>
               </ul>
             </div>
-          </div>
+          </div>      
           <div class="col-md">
-             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-3">Customer Support</h2>
-              <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">FAQ</a></li>
-                <li><a href="#" class="py-2 d-block">How it works</a></li>
-                <li><a href="#" class="py-2 d-block">Contact Us</a></li>
+          <div class="ftco-footer-widget mb-4">
+            <h3 class="ftco-heading-2">Social Media</h3>
+            <hr>
+            <ul class="list-unstyled">
+                <li><span class="bi bi-geo-alt-fill"></span><span class="text">Jl. Tanah Merdeka No.6, RT.10/RW.5, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830</span></li>
+	              <li><a href="#"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
+	              <li><a href="#"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">Address</h2>
+            	<h3 class="ftco-heading-2">Ayo ke UHAMKA</h3>
+              <hr>
             	<div class="block-23 mb-3">
-	              <ul>
-                  <li><span class="bi bi-geo-alt-fill"></span><span class="text">Jl. Tanah Merdeka No.6, RT.10/RW.5, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830</span></li>
-	                <li><a href="#"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
-	                <li><a href="#"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
-	              </ul>    
-	            </div>
-              
+                <div class="mv-gd-widget-20"
+                          data-width="350px"
+                          data-height="500px"
+                          data-id="4927700">
+              </div>  
+	            </div>   
             </div>
-            
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63454.34265576803!2d106.79724519245228!3d-6.277347586831607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed581fd04607%3A0x98b000ec597ad204!2sFakultas%20Teknik%20Uhamka!5e0!3m2!1sid!2sid!4v1677029547796!5m2!1sid!2sid" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         
         <div class="row">
@@ -454,7 +461,6 @@
       <a class="scroll-to-top rounded" href="#page-top">
         <i class="fas fa-angle-up"></i>
       </a>
-      </div>
       <!-- Bootstrap core JavaScript-->
       <script src="{{ asset('vendor/jquery/jquery.min.js') }}"></script>
       <script src="{{ asset('vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>

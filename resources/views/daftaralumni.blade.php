@@ -30,7 +30,7 @@
 </head>
 <body>
   <div class="d-flex">
-<table border="1" class="table table-bordered border-dark table-info" style=" margin:0px auto">
+<table border="1" class="table table-bordered table-striped border-opacity-75" style=" margin:0px auto">
         <tr>
             <!-- UNTUK NAMA KOLOM PADA TABEL -->
             <th>nim</th>

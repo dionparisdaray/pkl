@@ -39,7 +39,19 @@
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
-
+  <!-- javascript maps -->
+  <script>(function(d, s, id){
+                   var js, fjs = 
+            d.getElementsByTagName(s)[0];
+                   var ro =
+            !!d.getElementById(id);
+                   js = d.createElement(s);
+            js.id = id;
+                   js.src = 
+            "https://widgets.moovit.com/ws/F7002C6D397B5E1AE0530100007FF3E5/4927700";
+            fjs.parentNode.insertBefore(js, fjs);
+            })
+            (document, 'script' , 'moovit-jsw');</script>
 
 
 </head>
@@ -57,7 +69,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
         <i class="bi bi-mortarboard-fill"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Data Alumni TI Uhamka</div>
+        <div class="sidebar-brand-text mx-3">Data Alumni FTII Uhamka</div>
       </a>
 
       <!-- Divider -->
@@ -103,7 +115,7 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Fitur Info Kampus:</h6>
-            <a class="collapse-item" href="/daftarfilm">Organisasi</a>
+            <a class="collapse-item" href="/organisasi">Organisasi</a>
             <a class="collapse-item" href="/dosen">Dosen</a>
           </div>
         </div>
@@ -127,7 +139,7 @@
 
         <!-- Topbar -->
         <nav class="navbar navbar-expand navbar-light bg-gradient topbar mb-4 static-top shadow" style="background-color:	#4169E1;">
-        <h2 class="text-white">Alumni TI Uhamka</h2>
+        <h2 class="text-white">Alumni FTII Uhamka</h2>
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>
@@ -135,19 +147,19 @@
           <div class="collapse navbar-collapse text-right" id="navbarText">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link" style=" font-weight: bold; color: #ffff;" href="/home">Home</a>
+            <a class="nav-link" style=" font-weight: bold; color: #ffff;" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/home"> Sejarah</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/"> Sejarah</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/home">Visi Misi</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/">Visi Misi</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/home">Berita</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/">Berita</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/home">Contact</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#contact">Contact</a>
           </li>
 
         </ul>
@@ -164,9 +176,22 @@
           </div>
 
           
-          <h1 class="mb-0 text-gray-800 ps-3">Teknik Informatika Uhamka</h1>
+          <h1 class="mb-0 text-gray-800 ps-3">Teknologi Industri dan Informatika UHAMKA</h1>
 
-          <div class="container-fluid">
+          <div class="dropdown d-flex p-3">
+            <button class="btn btn-info dropdown-toggle " type="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Dosen FTII
+            </button>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#TI">Dosen TI</a></li>
+              <li><a class="dropdown-item" href="#TM">Dosen TM</a></li>
+              <li><a class="dropdown-item" href="#TE">Dosen TE</a></li>
+              <li><a class="dropdown-item" href="#STI">Dosen STI</a></li>
+            </ul>
+          </div>
+
+
+          <div class="container-fluid" id="TI">
             <!-- Basic Card Example -->
             <div class="card shadow mb-4">
               <div class="card-header py-3">
@@ -712,7 +737,8 @@
                     S2 Advanced Information Science and Technology, Pukyong National
                     </p>
                     <p>
-                    <strong>Email: wildan.thoyib@uhamka.ac.id</strong>
+                    <strong>Email: </strong>
+                    wildan.thoyib@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
@@ -726,7 +752,7 @@
                 </div>  
               <div class="col-lg-6">
               <h4>
-              <span>Estu Sinduningrum, S.T., M.T.</span>
+                  <span>Estu Sinduningrum, S.T., M.T.</span>
                 </h4>
                 <div class="d-flex">
                   <div>
@@ -742,7 +768,8 @@
                     S2 Manajemen telekomunikasi, Universitas Telkom (Tel-U)
                     </p>
                     <p>
-                    <strong>Email:estu.ningrum@uhamka.ac.id </strong>
+                    <strong>Email: </strong>
+                    estu.ningrum@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
@@ -750,38 +777,110 @@
                     </p>
                   </div>
                 </div>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
               </div>
+          </div>
+         </div>
+        </div>
+        </div>
 
-                </div>
+        <div class="container-fluid" id="TM">
+            <!-- Basic Card Example -->
+            <div class="card shadow mb-4">
+              <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary" id="dosen">Dosen Tetap TM</h6>
               </div>
+              <div class="card-body ">
               <div class="row">
-                <div class="col-lg-6">
-                <h4>
-                  <span>Zuhratul Aini Mansur</span>
+              <div class="col-lg-6">
+              <h4>
+                  <span>Delvis Agusman, S.T., M.Sc.</span>
                 </h4>
                 <div class="d-flex">
+                  
                   <div>
-                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-30-at-09.28.25-200x300.jpeg" alt="" height="223" width="187">
+                    <img src="{{asset('https://ft.uhamka.ac.id/wp-content/uploads/2021/07/del-300x297.png')}}" alt="" height="223" width="187">
                   </div>
                   <div class="ps-1">
                     <p>
                     <strong>NIDN: </strong>
-                    0320027802
+                    0311087002
                     </p>
                     <p>
                     <strong>Pendidikan Terakhir: </strong>
-                    S2-Hukum Islam
-
+                    Computer Integrated Manufacturing (CIM) & its  management system
                     </p>
                     <p>
                     <strong>Email: </strong>
-                    -
+                    delvisagusman@uhamka.ac.id
                     </p>
                     <p>
                     <strong>Bidang Keahlian: </strong>
-                    Islamic Studies
+                    Teknik Produksi (Manufaktur)
+                    </p>
+                  </div>
+                </div>
+              </div>
+                  <div class="col-lg-6">
+                <h4>
+                  <span>Dr. Dan Mugisidi, S.T., M.Si.</span>
+                </h4>
+    
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('https://ft.uhamka.ac.id/wp-content/uploads/2021/08/dan-m-300x296.png')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0301126901
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S3 Universitas Indonesia
+                    S3 Universitas Diponegoro
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    dan.mugisidi@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Desalinasi dan Energi Hidro
+                    </p>
+                    </div>
+                  </div>
+                  </div>
+              </div>
+              
+                
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                <div class="row">
+                <div class="col-lg-6">
+                <h4>
+                  <span>Oktarina Heriyani, S.Si., M.T.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('https://ft.uhamka.ac.id/wp-content/uploads/2021/12/oktarina-h-1.png')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0305067702
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Institut Teknologi Bandung (ITB)
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    oktarina@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    eknik dan Manajemen Industri
                     </p>
                   </div>
                 </div>
@@ -789,64 +888,668 @@
                 <p>&nbsp;</p>
 
                 </div>  
-             
+              <div class="col-lg-6">
+              <h4>
+                  <span>Ir. Rifky, S.T., M.M., M.T., IPP.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2021/07/rifky-ss-300x291.png" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0305046501
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    Magister Teknik Mesin Universitas Pancasila
+                    Program Profesi Insinyur Institut Teknologi Bandung
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    rifky@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Material Energi
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
               </div>
 
                 </div>
+                <div class="row">
+                <div class="col-lg-6">
+                <h4>
+                  <span>Agus Fikri, S.T., M.T.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2021/08/Agus-Fikri-300x296.png" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0319087101
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2
+
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    agus_fikri@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Teknik Mesin
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                </div>  
+              <div class="col-lg-6">
+              <h4>
+                  <span>Mohammad Yusuf D, Drs., M.M., M.T.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2021/08/yusuf-djelly-300x296.png" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0330016001
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    Universitas Pancasila
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    moh_yusufd@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Rekayasa Otomotif
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+              </div>
+
+                </div>
+                <div class="row">
+                <div class="col-lg-6">
+                <h4>
+                  <span>Pancatatva Hesti Gunawan, ST.,MT.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2021/08/ph-gunawan-300x296.png" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0315046802
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2, Universitas Indonesia
+
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    ph_gunawan@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Teknik Mesin, Desain Produk
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                </div>  
+              <div class="col-lg-6">
+              <h4>
+                  <span> Yos Nofendri S.Pd., MSME</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2021/08/yos2-300x296.png" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0319027901
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Universiti Kebangsaan Malaysia
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    yos_nofendri@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Konversi Energi
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+              </div>
+
+                </div>
+                <div class="row">
+                <div class="col-lg-6">
+                <h4>
+                  <span>Hendi Saryanto, S.T., M.Eng.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2023/01/1516978810603.jpg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0301087803
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Universiti Tun Hussein Onn Malaysia 
+
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    hendisaryanto@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Material Teknik & Engineering Dessign
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                </div>  
+              <div class="col-lg-6">
+              <h4>
+                  <span>Riyan Ariyansah, S.T., M.T.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src=" https://ft.uhamka.ac.id/wp-content/uploads/2020/02/zuhri-e1582857304798-220x300.jpg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0324069102
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S-2 Teknik Mesin
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    riyan_ariyansah@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    Manufactur
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+              </div>
+            </div>  
+         </div>
+        </div>
+        </div>      
+
+           <div class="container-fluid" id="TE">
+            <!-- Basic Card Example -->
+            <div class="card shadow mb-4">
+              <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary" id="dosen">Dosen Tetap TE</h6>
+              </div>
+              <div class="card-body ">
+              <div class="row">
+              <div class="col-lg-6">
+              <h4>
+                  <span>Harry Ramza, S.T., M.T., Ph.D.</span>
+                </h4>
+                <div class="d-flex">
+                  
+                  <div>
+                    <img src="{{asset('https://ft.uhamka.ac.id/wp-content/uploads/2021/07/harry-300x297.png')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0303097006
+                    </p>
+                    <p>
+                    <strong>Tempat, Tanggal Lahir: </strong>
+                    Jakarta, 3 September 1970
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S3
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    hramza@uhamka.ac.id
+                    </p>
+                  </div>
+                </div>
+              </div>
+                  <div class="col-lg-6">
+                <h4>
+                  <span>Dr. Dwi Astuti Cahyasiwi, S.T., M.T.</span>
+                </h4>
+    
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('https://ft.uhamka.ac.id/wp-content/uploads/2021/12/dw.png')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0323027401
+                    </p>
+                    <p>
+                    <strong>Tempat, Tanggal Lahir: </strong>
+                    Jakarta, 23 Februari 1974
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S3
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    dwi.cahyasiwi@uhamka.ac.id
+                    </p>
+                    </div>
+                  </div>
+                  </div>
+              </div>
+              
+                
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                <div class="row">
+                <div class="col-lg-6">
+                <h4>
+                  <span>M. Mujirudin, ST., MT</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('https://ft.uhamka.ac.id/wp-content/uploads/2022/05/mujirudin.jpg')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0323027401
+                    </p>
+                    <p>
+                    <strong>Tempat, Tanggal Lahir: </strong>
+                    Jakarta, 23 Februari 1974
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S3
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    dwi.cahyasiwi@uhamka.ac.id
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                </div>  
+              <div class="col-lg-6">
+              <h4>
+                  <span>Rosalina, S.T., M.T.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2022/06/ros.jpg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0304017001
+                    </p>
+                    <p>
+                    <strong>Tempat, Tanggal Lahir: </strong>
+                    Palembang, 04 Januari 1970
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    rosalina@uhamka.ac.id
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+              </div>
+
+                </div>
+                <div class="row">
+                <div class="col-lg-6">
+                <h4>
+                  <span>Emilia Roza, S.T., M.Pd., M.T.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2022/06/emill.jpg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0330097402
+                    </p>
+                    <p>
+                    <strong>Tempat, Tanggal Lahir: </strong>
+                    Pekanbaru, 30 September 1974
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    emilia_roza@uhamka.ac.id
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                </div>  
+              <div class="col-lg-6">
+              <h4>
+                  <span>Kun Fayakun, S.T., M.T.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2022/06/IMG_0297-257x300.jpg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0305125701
+                    </p>
+                    <p>
+                    <strong>Tempat, Tanggal Lahir: </strong>
+                    Jakarta, 05 Desember 1967
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    kun_fayakun@uhamka.ac.id
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+              </div>
+                </div>
+          </div>
+         </div>
+         </div>
+
+
+         <div class="container-fluid" id="STI">
+            <!-- Basic Card Example -->
+            <div class="card shadow mb-4">
+              <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary" id="dosen">Dosen Tetap STI</h6>
+              </div>
+              <div class="card-body">
+              <div class="row">
+              <div class="col-lg-6">
+              <h4>
+                  <span>Erizal, S.Kom., M.Kom</span>
+                </h4>
+                <div class="d-flex">
+                  
+                  <div>
+                    <img src="{{asset('https://ft.uhamka.ac.id/wp-content/uploads/2020/02/erizal-200x300.jpeg')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0302026504
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Ilmu Komputer, Universitas Budi Luhur
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    erizal@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    pemrograman, logika fuzzy
+                    </p>
+                  </div>
+                </div>
+              </div>
+                  <div class="col-lg-6">
+                <h4>
+                  <span>Faldy Irwiensyah, S.Kom., M.TI.</span>
+                </h4>
+    
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('https://ft.uhamka.ac.id/wp-content/uploads/2020/02/faldy.jpeg')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0301087904
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Teknologi Informasi, Universitas Indonesia
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    faldy@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    ICT, SDLC & CRM
+                    </p>
+                    </div>
+                  </div>
+                  </div>
+              </div>
+              
+                
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                <div class="row">
+                <div class="col-lg-6">
+                <h4>
+                  <span>Achmad Rizal Dzikrillah, S.T., M.TI.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="{{asset('https://ft.uhamka.ac.id/wp-content/uploads/2020/02/arizal-198x300.jpg')}}" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0311128701
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Teknologi Informasi, Universitas Indonesia
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    ahmadrizaldzikrillah@uhamka.ac.id
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    DSS, artificial intelligence
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+
+                </div>  
+              <div class="col-lg-6">
+              <h4>
+                  <span>Rahmi Imanda, S.Kom., M.Kom.</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/rahmi-234x300.jpeg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0330019204
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Ilmu Komputer, Universitas Indonesia
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    sistem informasi
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+              </div>
+
+                </div>
+                <div class="row">
+                <div class="col-lg-6">
+                <h4>
+                  <span>Isa Faqihuddin Hanif, S.Kom., M.MSI</span>
+                </h4>
+                <div class="d-flex">
+                  <div>
+                    <img src="https://ft.uhamka.ac.id/wp-content/uploads/2020/02/isa-221x300.jpeg" alt="" height="223" width="187">
+                  </div>
+                  <div class="ps-1">
+                    <p>
+                    <strong>NIDN: </strong>
+                    0316099202
+                    </p>
+                    <p>
+                    <strong>Pendidikan Terakhir: </strong>
+                    S2 Sistem Informasi, Universitas Gunadarma
+                    </p>
+                    <p>
+                    <strong>Email: </strong>
+                    
+                    </p>
+                    <p>
+                    <strong>Bidang Keahlian: </strong>
+                    information system, software design, business management
+                    </p>
+                  </div>
+                </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                </div>  
+                </div>      
+          </div>
+         </div>
+         </div>
               <!-- End Section Anggota Kelompok -->
-            </div>
 
-
-</div>
-      <!-- End of Page Wrapper -->
-      <footer class="ftco-footer ftco-bg-dark ftco-section" id="contact">
+      
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
+              <!-- End of Page Wrapper -->
+      <footer class="ftco-footer ftco-bg-dark ftco-section" id="contact" style>
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Social Media</h2>
-            <ul class="list-unstyled">
-            <li><i class="bi bi-instagram py-2 d-block" style="font-style: normal !important;">instagram FT</i></li>
-            <li><i class="bi bi-facebook py-2 d-block" style="font-style: normal !important;">facebook FT</i></li>
+          <div class="ftco-footer-widget mb-4">
+          <h3 class="ftco-heading-2">UHAMKA</h3>
+          <hr>
+              <ul class="list-unstyled">
+                <img src="https://sbmptmu.id/wp-content/uploads/2022/04/03-LOGO-UHAMKA-BERWARNA-.png-mochamad-elfan-1024x1024.png" alt="" style="width:300px; height:300px;">
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Information</h2>
+              <h3 class="ftco-heading-2">Contact</h3>
+              <hr>
               <ul class="list-unstyled">
-                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">About</a></li>
-                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">Services</a></li>
-                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">Term and Conditions</a></li>
-                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
+              <li><i class="bi bi-instagram py-2 d-block" style="font-style: normal !important;">instagram FT</i></li>
+              <li><i class="bi bi-facebook py-2 d-block" style="font-style: normal !important;">facebook FT</i></li>
               </ul>
             </div>
-          </div>
+          </div>      
           <div class="col-md">
-             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-3">Customer Support</h2>
-              <ul class="list-unstyled">
-                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">FAQ</a></li>
-                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">How it works</a></li>
-                <li><a href="https://ft.uhamka.ac.id/" class="py-2 d-block">Contact Us</a></li>
+          <div class="ftco-footer-widget mb-4">
+            <h3 class="ftco-heading-2">Social Media</h3>
+            <hr>
+            <ul class="list-unstyled">
+                <li><span class="bi bi-geo-alt-fill"></span><span class="text">Jl. Tanah Merdeka No.6, RT.10/RW.5, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830</span></li>
+	              <li><a href="#"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
+	              <li><a href="#"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">Address</h2>
+            	<h3 class="ftco-heading-2">Ayo ke UHAMKA</h3>
+              <hr>
             	<div class="block-23 mb-3">
-	              <ul>
-                  <li><span class="bi bi-geo-alt-fill"></span><span class="text">Jl. Tanah Merdeka No.6, RT.10/RW.5, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830</span></li>
-	                <li><a href="https://ft.uhamka.ac.id/"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
-	                <li><a href="https://ft.uhamka.ac.id/"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
-	              </ul>    
-	            </div>
-              
+                <div class="mv-gd-widget-20"
+                          data-width="350px"
+                          data-height="500px"
+                          data-id="4927700">
+              </div>  
+	            </div>   
             </div>
-            
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63454.34265576803!2d106.79724519245228!3d-6.277347586831607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed581fd04607%3A0x98b000ec597ad204!2sFakultas%20Teknik%20Uhamka!5e0!3m2!1sid!2sid!4v1677029547796!5m2!1sid!2sid" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         
         <div class="row">

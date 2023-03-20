@@ -95,6 +95,20 @@
                    }
                       </script>
 
+          <!-- javascript maps -->
+  <script>(function(d, s, id){
+                   var js, fjs = 
+            d.getElementsByTagName(s)[0];
+                   var ro =
+            !!d.getElementById(id);
+                   js = d.createElement(s);
+            js.id = id;
+                   js.src = 
+            "https://widgets.moovit.com/ws/F7002C6D397B5E1AE0530100007FF3E5/4927700";
+            fjs.parentNode.insertBefore(js, fjs);
+            })
+            (document, 'script' , 'moovit-jsw');</script>
+
 </head>
 
 <body onload="lihatalumni();" id="page-top">
@@ -110,7 +124,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
         <i class="bi bi-mortarboard-fill"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Data Alumni TI Uhamka</div>
+        <div class="sidebar-brand-text mx-3">Data Alumni FTII Uhamka</div>
       </a>
 
       <!-- Divider -->
@@ -156,7 +170,7 @@
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Fitur Info Kampus:</h6>
-            <a class="collapse-item" href="/daftarfilm">Organisasi</a>
+            <a class="collapse-item" href="/organisasi">Organisasi</a>
             <a class="collapse-item" href="/dosen">Dosen</a>
           </div>
         </div>
@@ -180,7 +194,7 @@
 
         <!-- Topbar -->
         <nav class="navbar navbar-expand navbar-light bg-gradient topbar mb-4 static-top shadow" style="background-color:	#4169E1;">
-        <h2 class="text-white">Alumni TI Uhamka</h2>
+        <h2 class="text-white">Alumni FTII Uhamka</h2>
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>
@@ -188,16 +202,16 @@
           <div class="collapse navbar-collapse text-right" id="navbarText">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link" style=" font-weight: bold; color: #ffff;" href="#home">Home</a>
+            <a class="nav-link" style=" font-weight: bold; color: #ffff;" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#sejarah"> Sejarah</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/"> Sejarah</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#visimisi">Visi Misi</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/">Visi Misi</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#berita">Berita</a>
+            <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="/">Berita</a>
           </li>
           <li class="nav-item">
             <a class="nav-link"style=" font-weight: bold; color: #ffff;"href="#contact">Contact</a>
@@ -274,57 +288,63 @@
           </div>
         </div>
 
-
-
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
       <!-- End of Page Wrapper -->
       <footer class="ftco-footer ftco-bg-dark ftco-section" id="contact">
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Social Media</h2>
-            <ul class="list-unstyled">
-            <li><i class="bi bi-instagram py-2 d-block" style="font-style: normal !important;">instagram FT</i></li>
-            <li><i class="bi bi-facebook py-2 d-block" style="font-style: normal !important;">facebook FT</i></li>
+          <div class="ftco-footer-widget mb-4">
+          <h3 class="ftco-heading-2">UHAMKA</h3>
+          <hr>
+              <ul class="list-unstyled">
+                <img src="https://sbmptmu.id/wp-content/uploads/2022/04/03-LOGO-UHAMKA-BERWARNA-.png-mochamad-elfan-1024x1024.png" alt="" style="width:300px; height:300px;">
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Information</h2>
+              <h3 class="ftco-heading-2">Contact</h3>
+              <hr>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">About</a></li>
-                <li><a href="#" class="py-2 d-block">Services</a></li>
-                <li><a href="#" class="py-2 d-block">Term and Conditions</a></li>
-                <li><a href="#" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
+              <li><i class="bi bi-instagram py-2 d-block" style="font-style: normal !important;">instagram FT</i></li>
+              <li><i class="bi bi-facebook py-2 d-block" style="font-style: normal !important;">facebook FT</i></li>
               </ul>
             </div>
-          </div>
+          </div>      
           <div class="col-md">
-             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-3">Customer Support</h2>
-              <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">FAQ</a></li>
-                <li><a href="#" class="py-2 d-block">How it works</a></li>
-                <li><a href="#" class="py-2 d-block">Contact Us</a></li>
+          <div class="ftco-footer-widget mb-4">
+            <h3 class="ftco-heading-2">Social Media</h3>
+            <hr>
+            <ul class="list-unstyled">
+                <li><span class="bi bi-geo-alt-fill"></span><span class="text">Jl. Tanah Merdeka No.6, RT.10/RW.5, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830</span></li>
+	              <li><a href="#"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
+	              <li><a href="#"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">Address</h2>
+            	<h3 class="ftco-heading-2">Ayo ke UHAMKA</h3>
+              <hr>
             	<div class="block-23 mb-3">
 	              <ul>
-                  <li><span class="bi bi-geo-alt-fill"></span><span class="text">Jl. Tanah Merdeka No.6, RT.10/RW.5, Rambutan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13830</span></li>
-	                <li><a href="#"><span class="bi bi-telephone-fill"></span><span class="text">(021) 87782739</span></a></li></br>
-	                <li><a href="#"><span class="bi bi-envelope-at-fill"></span><span class="text">ft@uhamka.ac.id</span></a></li>
+                <div class="mv-gd-widget-20"
+                          data-width="350px"
+                          data-height="500px"
+                          data-id="4927700">
+              </div>
 	              </ul>    
 	            </div>
               
             </div>
             
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63454.34265576803!2d106.79724519245228!3d-6.277347586831607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ed581fd04607%3A0x98b000ec597ad204!2sFakultas%20Teknik%20Uhamka!5e0!3m2!1sid!2sid!4v1677029547796!5m2!1sid!2sid" width="300" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         
         <div class="row">
